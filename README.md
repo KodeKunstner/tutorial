@@ -3,7 +3,7 @@
 [![github](https://img.shields.io/badge/github-KodeKunstner/sample-app-blue.svg)](https://github.com/KodeKunstner/sample-app)
 [![codeclimate](https://img.shields.io/codeclimate/github/KodeKunstner/sample-app.svg)](https://codeclimate.com/github/KodeKunstner/sample-app)
 
-# Sample app 
+# Hello
 
 This is a bit of documentation, try 'Read' above. Code can be written as semi-literate code, see more here <https://en.wikipedia.org/wiki/Literate_programming>
     
