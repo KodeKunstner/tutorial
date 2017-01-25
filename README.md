@@ -1,14 +1,14 @@
-<img src=https://raw.githubusercontent.com/KodeKunstner/sample-app/master/icon.png width=96 height=96 align=right>
+<img src=https://raw.githubusercontent.com/KodeKunstner/tutorial/master/icon.png width=96 height=96 align=right>
 
-[![github](https://img.shields.io/badge/github-KodeKunstner/sample-app-blue.svg)](https://github.com/KodeKunstner/sample-app)
-[![codeclimate](https://img.shields.io/codeclimate/github/KodeKunstner/sample-app.svg)](https://codeclimate.com/github/KodeKunstner/sample-app)
+[![github](https://img.shields.io/badge/github-KodeKunstner/tutorial-blue.svg)](https://github.com/KodeKunstner/tutorial)
+[![codeclimate](https://img.shields.io/codeclimate/github/KodeKunstner/tutorial.svg)](https://codeclimate.com/github/KodeKunstner/tutorial)
 
 # Hello world, this is a test
 
 This is a bit of documentation, try 'Read' above. Code can be written as semi-literate code, see more here <https://en.wikipedia.org/wiki/Literate_programming>
     
     module.meta = {
-      id: 'sample-app',
+      id: 'tutorial',
       name: 'Sample Application',
       version: '0.0.1'
     };
